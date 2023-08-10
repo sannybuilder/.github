@@ -7,4 +7,4 @@ It includes a disassembler, permitting the end-user to transform the game script
 
 Official website: https://sannybuilder.com
 
-Discord: https://discord.gg/d5dZSfgBZr
+Discord: https://sannybuilder.com/discord
